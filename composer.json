@@ -28,7 +28,11 @@
         "drupal/recaptcha": "^2.3",
         "drupal/webform": "^5.0",
         "drupal/tb_megamenu": "1.x-dev",
-		"drupal/honeypot": "^1.29"		
+		"drupal/honeypot": "^1.29",
+        "drupal/devel": "^2.0",
+        "drupal/google_analytics": "^2.4",
+        "drupal/workbench": "^1.1",
+        "drupal/advagg": "^3.5"		
     },
 	"replace": {
         "drupal/core": "^8.6"
