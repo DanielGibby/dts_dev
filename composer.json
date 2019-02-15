@@ -32,7 +32,8 @@
         "drupal/devel": "^2.0",
         "drupal/google_analytics": "^2.4",
         "drupal/workbench": "^1.1",
-        "drupal/advagg": "^3.5"		
+        "drupal/advagg": "^3.5",
+        "drupal/entity_usage": "^2.0"		
     },
 	"replace": {
         "drupal/core": "^8.6"
